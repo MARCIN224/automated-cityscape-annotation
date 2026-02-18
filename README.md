@@ -1,4 +1,5 @@
 # Cityscape Analyzer
+# RECOMMENDED WITH NVIDIA GPU (CUDA CORES)
 
 # Setup Instructions
 
