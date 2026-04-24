@@ -1,4 +1,7 @@
 # Cityscape Analyzer
+<img width="1536" height="802" alt="Figure_2" src="https://github.com/user-attachments/assets/64908fd7-ec9a-474d-b5b6-d302c42de4ef" />
+
+
 # RECOMMENDED WITH NVIDIA GPU (CUDA CORES)
 
 # Setup Instructions
@@ -11,3 +14,5 @@ After downloading the SAM model file, place both the Python script (.py file) an
 Open your preferred Integrated Development Environment (IDE), such as Visual Studio Code, and open the specific folder containing both files.
 In the Python script, locate line 279 (or the line containing the image_path variable).
 Replace the existing path inside the double quotation marks ("") with the complete file path to your desired input image. Finally, run the Python file to execute the program.
+
+
